@@ -1,9 +1,9 @@
 # antanas-budrikas.github.io
 
-Personal CV site — single-page static HTML, deployed via GitHub Pages.
+Personal CV site — interactive IDE-themed single-page app, self-contained HTML bundle, deployed via GitHub Pages.
 
 Live: <https://antanas-budrikas.github.io>
 
 ## Local
 
-Just open `index.html` in a browser. No build step.
+Open `index.html` in a browser. All assets (fonts, scripts, images) are inlined; no build step, no network calls.
